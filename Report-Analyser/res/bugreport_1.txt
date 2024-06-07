@@ -1,0 +1,226 @@
+Bug-Report:
+-----------
+If requesting support, please provide the following details to help troubleshooting:
+
+The type NavDecimal is unknown. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et.
+
+Client ID: 
+a52501c8-0db1-4fd0-8109-019f0fa9af65
+
+Client Name:
+SRV-01
+
+IPv4:
+192.168.0.73
+
+App Name:
+Super App 9000
+
+App Version:
+1.2.1
+
+Exception Class:
+EInvalidTypeCast
+
+Exception Message:
+Invalid Type Casting. Can't cast Float to Integer.
+
+Application Insights session ID: 
+2fc1eb56-9a57-43c1-9f78-93ac0cc2af1e
+
+Client activity id: 
+011fab54-1f5c-592a-6e34-be4846eba33a
+
+Time stamp on error: 
+2024-06-13T14:16:37.2725798Z
+
+User telemetry id: 
+597895af-d84d-4d50-99f0-de394f37cf1d
+
+Username:
+admin
+
+UserMail:
+admin@admin-center.com
+
+Publisher:
+PZ Systeme
+
+Publisher E-Mail:
+office@pz-systme.de
+
+Call Stack: 
+0036d58c +004 crashDll.dll StdCtrls  16 +0 CrashDllProc
+004727c0 +064 CrashApp.exe Controls        TControl.Click
+0046b048 +01c CrashApp.exe StdCtrls        TButton.Click
+0046b13c +00c CrashApp.exe StdCtrls        TButton.CNCommand
+00472628 +188 CrashApp.exe Controls        TControl.WndProc
+00475533 +157 CrashApp.exe Controls        TWinControl.WndProc
+0046af0c +06c CrashApp.exe StdCtrls        TButtonControl.WndProc
+004723f8 +024 CrashApp.exe Controls        TControl.Perform
+00491d40 +000 CrashApp.exe Controls  55 +0 CrashProc
+0047566b +023 CrashApp.exe Controls        DoControlMsg
+00475cc3 +00b CrashApp.exe Controls        TWinControl.WMCommand
+
+
+Bug-Report:
+-----------
+If requesting support, please provide the following details to help troubleshooting:
+
+The type NavDecimal is unknown.
+
+Client ID: 
+01c8af65-0db1-4fd0-8109-a52501c8af65
+
+Client Name:
+SRV-01
+
+IPv4:
+192.168.0.73
+
+App Name:
+Super App 9000
+
+App Version:
+1.2.3
+
+Exception Class:
+EUnknown
+
+Exception Message:
+Unknown Exception!
+
+Application Insights session ID: 
+2fc1eb56-9a57-43c1-9f78-93ac0cc2af1e
+
+Client activity id: 
+011fab54-1f5c-592a-6e34-be4846eba33a
+
+Time stamp on error: 
+2024-06-06T09:53:13.2725798Z
+
+User telemetry id: 
+597895af-d84d-4d50-99f0-de394f37cf1d
+
+Username:
+Jon Doe
+
+UserMail:
+jon.doe@cr-business.com
+
+Publisher:
+PZ Systeme
+
+Publisher E-Mail:
+office@pz-systme.de
+
+Call Stack: 
+0036d58c +004 crashDll.dll CrashDll   9 +0 CrashDllProc
+00491d40 +000 CrashApp.exe CrashUnit 96 +0 CrashProc
+00491d48 +000 CrashApp.exe CrashUnit       TCrashForm.CrashButtonClick
+004727c0 +064 CrashApp.exe Controls        TControl.Click
+0046b048 +01c CrashApp.exe StdCtrls        TButton.Click
+0046b13c +00c CrashApp.exe StdCtrls        TButton.CNCommand
+00472628 +188 CrashApp.exe Controls        TControl.WndProc
+00475533 +157 CrashApp.exe Controls 166 +0 TWinControl.WndProc
+0046af0c +06c CrashApp.exe StdCtrls        TButtonControl.WndProc
+004723f8 +024 CrashApp.exe Controls        TControl.Perform
+0047566b +023 CrashApp.exe Controls        DoControlMsg
+00475cc3 +00b CrashApp.exe Controls        TWinControl.WMCommand
+0048c16c +02c CrashApp.exe Forms           TCustomForm.WMCommand
+00472628 +188 CrashApp.exe Controls        TControl.WndProc
+00475533 +157 CrashApp.exe Controls        TWinControl.WndProc
+00475533 +157 CrashApp.exe Controls        TWinControl.WndProc
+0046af0c +06c CrashApp.exe StdCtrls        TButtonControl.WndProc
+004751b0 +02c CrashApp.exe Controls        TWinControl.MainWndProc
+0045e564 +014 CrashApp.exe Classes         StdWndProc
+77d196c2 +00a user32.dll                   DispatchMessageA
+004904db +083 CrashApp.exe Forms           TApplication.ProcessMessage
+004904fa +00a CrashApp.exe Forms           TApplication.HandleMessage
+0049071a +096 CrashApp.exe Forms           TApplication.Run
+0049203b +03b CrashApp.exe CrashApp  14 +3 initialization
+
+Bug-Report:
+-----------
+If requesting support, please provide the following details to help troubleshooting:
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et.
+
+Client ID:
+4fd08109-0db1-4fd0-8109-4fd00fa90db1
+
+Client Name:
+SRV-01
+
+IPv4:
+192.168.0.73
+
+App Name:
+Super App 9000
+
+App Version:
+1.2.3
+
+Exception Class:
+EMemory
+
+Exception Message:
+Out of Memory
+
+Application Insights session ID: 
+8109eb56-9a57-43c1-9f78-93ac0cc28109
+
+Client activity id: 
+011fab54-1f5c-592a-6e34-be4846eba33a
+
+Time stamp on error: 
+2024-06-06T11:03:43.2725798Z
+
+User telemetry id: 
+597895af-d84d-4d50-99f0-de394f37cf1d
+
+Username:
+Jane Gasey
+
+UserMail:
+jane.gasey@cr-business.com
+
+Publisher:
+PZ Systeme
+
+Publisher E-Mail:
+office@pz-systme.de
+
+Call Stack: 
+0036d58c +004 crashDll.dll CrashDll   9 +0 CrashDllProc
+00491d40 +000 CrashApp.exe CrashUnit 30 +0 CrashProc
+00491d48 +000 CrashApp.exe CrashUnit 35 +0 TCrashForm.CrashButtonClick
+004727c0 +064 CrashApp.exe Controls        TControl.Click
+0046b048 +01c CrashApp.exe StdCtrls        TButton.Click
+0046b13c +00c CrashApp.exe StdCtrls        TButton.CNCommand
+00472628 +188 CrashApp.exe Controls        TControl.WndProc
+00475533 +157 CrashApp.exe Controls        TWinControl.WndProc
+0046af0c +06c CrashApp.exe StdCtrls        TButtonControl.WndProc
+004723f8 +024 CrashApp.exe Controls        TControl.Perform
+0047566b +023 CrashApp.exe Controls        DoControlMsg
+00475cc3 +00b CrashApp.exe Controls        TWinControl.WMCommand
+0048c16c +02c CrashApp.exe Forms           TCustomForm.WMCommand
+00472628 +188 CrashApp.exe Controls        TControl.WndProc
+00475533 +157 CrashApp.exe Controls        TWinControl.WndProc
+0048a1c5 +421 CrashApp.exe Forms           TCustomForm.WndProc
+004751b0 +02c CrashApp.exe Controls        TWinControl.MainWndProc
+0045e564 +014 CrashApp.exe Classes         StdWndProc
+77d1b8fe +044 user32.dll                   SendMessageW
+77d1e900 +016 user32.dll                   CallWindowProcA
+00475617 +0d7 CrashApp.exe Controls        TWinControl.DefaultHandler
+00476985 +019 CrashApp.exe Controls        TWinControl.WMKeyUp
+00472628 +188 CrashApp.exe Controls        TControl.WndProc
+00475533 +157 CrashApp.exe Controls        TWinControl.WndProc
+0046af0c +06c CrashApp.exe StdCtrls        TButtonControl.WndProc
+004751b0 +02c CrashApp.exe Controls        TWinControl.MainWndProc
+0045e564 +014 CrashApp.exe Classes         StdWndProc
+77d196c2 +00a user32.dll                   DispatchMessageA
+004904db +083 CrashApp.exe Forms           TApplication.ProcessMessage
+004904fa +00a CrashApp.exe Forms           TApplication.HandleMessage
+0049071a +096 CrashApp.exe Forms           TApplication.Run
+0049203b +03b CrashApp.exe CrashApp  14 +3 initialization
