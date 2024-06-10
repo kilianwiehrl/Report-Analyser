@@ -11,11 +11,14 @@ namespace Report_Analyser.model {
 
         public ReportManager() {
             sr = new StreamReader(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + filepath);
+        }
+
+        public void readReports() {
             string prevLine = "";
             string line;
             bool isFirst = true;
             Report report = new Report();
-            
+
             while ((line = sr.ReadLine()) != null) {
                 switch (prevLine.Trim()) {
                     case "Bug-Report:": {
